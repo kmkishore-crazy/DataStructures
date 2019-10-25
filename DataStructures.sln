@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedListDataStructure", "LinkedListDataStructure\LinkedListDataStructure.csproj", "{C8D20137-6ACB-480E-8A9D-7252BE452CBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures", "DataStructures\DataStructures.csproj", "{C9FBC3F7-A78D-4438-BE6C-BE9C83671A79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8D20137-6ACB-480E-8A9D-7252BE452CBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8D20137-6ACB-480E-8A9D-7252BE452CBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8D20137-6ACB-480E-8A9D-7252BE452CBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8D20137-6ACB-480E-8A9D-7252BE452CBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9FBC3F7-A78D-4438-BE6C-BE9C83671A79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9FBC3F7-A78D-4438-BE6C-BE9C83671A79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9FBC3F7-A78D-4438-BE6C-BE9C83671A79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9FBC3F7-A78D-4438-BE6C-BE9C83671A79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB234D33-76FA-4D1D-88E8-C895BEE553B8}
+	EndGlobalSection
+EndGlobal
